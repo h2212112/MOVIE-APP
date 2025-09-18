@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MOVIE-APP/static/css/main.923aa3b7.css",
+    "main.js": "/MOVIE-APP/static/js/main.dffab5d8.js",
+    "static/media/boxicons.svg": "/MOVIE-APP/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/MOVIE-APP/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/MOVIE-APP/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/MOVIE-APP/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/MOVIE-APP/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/MOVIE-APP/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/logo.png": "/MOVIE-APP/static/media/logo.261e2d3318b41e712229.png",
+    "index.html": "/MOVIE-APP/index.html",
+    "main.923aa3b7.css.map": "/MOVIE-APP/static/css/main.923aa3b7.css.map",
+    "main.dffab5d8.js.map": "/MOVIE-APP/static/js/main.dffab5d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.923aa3b7.css",
+    "static/js/main.dffab5d8.js"
+  ]
+}
